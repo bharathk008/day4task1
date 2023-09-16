@@ -1,0 +1,11 @@
+{
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "languages": ["English", "Spanish", "French"],
+    "contacts": {
+      "email": "john@example.com",
+      "phone": "555-555-5555"
+    }
+  }
+  

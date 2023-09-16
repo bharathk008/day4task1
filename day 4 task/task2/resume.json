@@ -1,0 +1,22 @@
+{
+    "name": "Bharath k",
+    "contact": {
+      "email": "kbharathbharath2000@gmail.com",
+      "phone": "9994419834",
+      "address": "chennai"
+    },
+    "education": [
+      {
+        "degree": "Electronics and communication Engineering",
+        "University": "Velammal Institute of Technology",
+        "year": 2023
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Git",
+      "Problem-solving"
+    ],
+    "languages": ["English", "Tamil", "telugu", "Hindi"]
+  }
+  
